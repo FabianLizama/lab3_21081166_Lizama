@@ -3,6 +3,7 @@ package lab3lizama;
 public class Image {
 	public int width;
 	public int height;
+        public Image(int width, int height)
 }
 
 abstract class Pixel {
