@@ -1,5 +1,5 @@
 package lab3lizama;
-
+import java.utils.*
 public class Image {
 	public int width;
 	public int height;
@@ -24,3 +24,5 @@ public class PixRGB extends Pixel {
 public class PixHex extends Pixel {
 	public string hex;
 }
+
+
