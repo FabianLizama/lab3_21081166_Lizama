@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+// Clase del menú interactivo por consola
 public class Menu_21081166_LizamaFabian {
     public static ArrayList<Object> imageMemory = new ArrayList<>();
 
