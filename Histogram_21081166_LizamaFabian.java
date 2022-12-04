@@ -1,8 +1,8 @@
 import java.util.ArrayList;
-public class Histogram {
+public class Histogram_21081166_LizamaFabian {
     public ArrayList<Object> histogram;
 
-    public Histogram() {
+    public Histogram_21081166_LizamaFabian() {
         this.histogram = new ArrayList<>();
     }
 

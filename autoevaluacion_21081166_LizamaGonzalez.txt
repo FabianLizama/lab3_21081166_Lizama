@@ -1,0 +1,21 @@
+Requerimientos Funcionales:
+1. Clases y estructuras que forman el programa: 1 Implementación completa sin problemas
+2. Menú interactivo por terminal: 1 Implementación completa sin problemas
+3.TDA image - constructor: 1 Implementación completa sin problemas
+4. TDA image - isBitmap: 1 Implementación completa sin problemas
+5. TDA image - isPixmap: 1 Implementación completa sin problemas
+6. TDA image - isHexmap: 1 Implementación completa sin problemas
+7. TDA image - isCompressed: 1 Implementación completa sin problemas
+8. TDA image - flipH: 1 Implementación completa sin problemas
+9. TDA image - flipV: 1 Implementación completa sin problemas
+10. TDA image - crop: 1 Implementación completa sin problemas
+11. TDA image - imgRGBToHex: 1 Implementación completa sin problemas
+12. TDA image - histogram: 1 Implementación completa sin problemas
+13. TDA image - rotate90: 1 Implementación completa sin problemas
+14. TDA image - compress: 1 Implementación completa sin problemas
+15. TDA image - changePixel: 1 Implementación completa sin problemas
+16. TDA image - invertColorBit: 1 Implementación completa sin problemas
+17. TDA image - invertColorRGB: 1 Implementación completa sin problemas
+18. TDA image - image->string: 1 Implementación completa sin problemas
+19. TDA image - depthLayers: 1 Implementación completa sin problemas
+20. TDA image - decompress: 0 No se implementa
